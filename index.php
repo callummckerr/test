@@ -1,3 +1,4 @@
 <php>
-echo "mark u smell kid"
+ "mark u smell kid"
+ "cheeki breeki"
 </php>
