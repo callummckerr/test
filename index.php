@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+  
 <?php
 <h1>greetings</h1>
 echo "mark u smell kid\n";
